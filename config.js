@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Löküncü ',
+    title: 'Löküncü / Artisan ',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
@@ -81,7 +81,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/jPMPsksD/MEF-AAP-027-BAP-2025-07-17-10-34-40.png',
+            image: 'https://i.ibb.co/TqRq44p0/MEF-AAP-027-BAP-2025-11-17-18-49-22.png',
             description: '',
             location: {
                 center: [28.930, 41.029],
